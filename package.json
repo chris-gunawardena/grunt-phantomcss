@@ -1,5 +1,5 @@
 {
-  "name": "@chris-gunawardena/grunt-phantomcss",
+  "name": "grunt-phantomcss",
   "description": "Plugin to do CSS regression testing via PhantomCSS.",
   "version": "0.4.1",
   "homepage": "https://github.com/chris-gunawardena/grunt-phantomcss",
